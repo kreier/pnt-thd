@@ -51,8 +51,31 @@ Some maintainance information for 345/47 - [Google Sheets](https://docs.google.c
 Batteries changed: 2026/04/06
 
 - Beston AA M7037 4-pack 3600 mAh 248,000 VND
-- Beston AA M7037 4-pack 2800 mAh 229,000 VND, link lazada
+- Beston AA M7037 4-pack 2800 mAh 229,000 VND, [link lazada](https://www.lazada.vn/products/i3078948913-s14786424857.html)
 - Beston AA M7037 4-pack 2500 mAh 205,000 VND
-- Regular AA Energizer Max 12-pack 162,000 VND link lazada
+- Regular AA Energizer Max 12-pack 162,000 VND [link lazada](https://www.lazada.vn/products/pdp-i1473783002-s6126120648.html)
 
 Price per non-rechargable: 13500 VND, price per rechargable: 57000 VND. Need to replace 4.2x to make back the money.
+
+## Air Conditioner Daikin
+
+### Máy lạnh Daikin phòng chính - Daikin AC in main hall
+
+- 2x FHC36NUV1 with 10.6 kW cooling power on the right side
+- 2x FHC30NUV1 with 8.8 kW cooling power on the left side
+
+| **Label** | **Serial Nr.** | **Mfg. Date** |  **Type** | **Cooling** | **Gas type** | **product ID** |
+|:---------:|:--------------:|:-------------:|:---------:|:-----------:|:------------:|:--------------:|
+| AC1       | E004713        | 13.1          | FHC30NUV1 |      8.8 kW |              |                |
+| AC2       | E011845        | 13.2          | FHC36NUV1 |     10.6 kW |              |                |
+| AC3       | E011660        | 13.1          | FHC36NUV1 |     10.6 kW |              |                |
+| AC4       | E004710        | 13.1          | FHC30NUV1 |      8.8 kW |              |                |
+| AC5       | E080492        | 2021.9        | FTC50NV1V |      5.0 kW |          R32 |     3P519059-3 |
+| AC6       | E048543        | 2020.1        | FTC50NV1V |      5.0 kW |          R32 |     3P519059-3 |
+| AC7       | 6070988        | 2016.05       | MS-HL25VC |      2.6 kW |          R22 |   Mitsubishi   |
+
+### Phòng phụ trợ - Auxiliary rooms
+
+- 2x FTC50NV1V with 5.0 kW cooling power (larger room)
+- 1x MS-HL25VC with 2.6 kW cooling power from Mitsubishi
+
