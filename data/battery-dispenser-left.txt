@@ -1,0 +1,9 @@
+# Auto-dispenser left (aux)
+
+## 2026/04/21 Battery replacement, refill
+
+- 4x Energizer MAX batteries
+- 0.70 - 0.52 Volt
+- 0.51 Volt
+- 0.21 Volt
+- 0.19 Volt
