@@ -5,32 +5,36 @@
 
 Some maintainance information for 345/47
 
-## Rechargable battery
+## Rechargable battery - 20x AA for Faucet, Auto-Sanitizer, Doorbell and Microphone 6
 
-### Doorbell 3x AA
-
-- 2026/04/18 100%
-- 2026/06/
-
-### Auto-Sanitizer right
+### Doorbell 3x AA Beston 2800 mAh
 
 - 2026/04/18 100%
 - 2026/06/
 
-### Auto-Sanitizer left (aux)
+### Auto-Sanitizer right 4x Beston 2800 mAh
 
-- 2026/04/21 100%
+- 2026/04/18 100%
 - 2026/06/
 
-### Faucet Nam 4x AA
+### Auto-Sanitizer left (aux) 4x Energizer MAX
+
+- 2026/04/21 4x 1.42 Volt
+- 2026/06/
+
+### Faucet Nam 4x AA Beston 2800 mAh
 
 - 2026/04/15 100%
 - 2026/06/
 
-### Faucet Nu 4x AA
+### Faucet Nu 4x AA Beston 2800 mAh
 
-- 2026/04/ 100%
+- 2026/04/21 100%
 - 2026/06/
+
+### Microphone 1x AA Beston 2800 mAh
+
+- Usually recharged every week
 
 
 ### Info Beston 2AN-75
